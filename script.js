@@ -29,7 +29,7 @@ function convertToRoman(number) {
   return roman;
 }
 
-convertButton.addEventListener('click', function() {
+convertButton.addEventListener('click', () => {
   const numberInput = document.getElementById('number').value;
 
   if (numberInput.trim().length === 0) {
