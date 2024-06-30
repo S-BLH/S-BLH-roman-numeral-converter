@@ -1,15 +1,15 @@
 const convertButton = document.getElementById('convert-btn');
 const outputDiv = document.getElementById('output');
 
-convertButton.addEventListener('click', function() {
+convertButton.addEventListener('click', () => {
   const numberInput = document.getElementById('number').value;
 
   if (numberInput.trim().length === 0) {
     outputDiv.innerText = 'Please enter a valid number';
   } else {
-    const number = parseInt(numberInput);
+    const number = parseInt(numberInput, 10);
 
-    if (isNaN(number) || number < 1) {
+    if (Number.isNaN(number) || number < 1) {
       outputDiv.innerText = 'Please enter a number greater than or equal to 1';
     } else if (number >= 4000) {
       outputDiv.innerText = 'Please enter a number less than or equal to 3999';
