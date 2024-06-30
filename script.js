@@ -19,7 +19,7 @@ function convertToRoman(number) {
   ];
 
   let roman = '';
-  for (let i = 0; i < numeralMap.length; i++) {
+  for (let i = 0; i < numeralMap.length; i += 1) {
     while (number >= numeralMap[i].value) {
       roman += numeralMap[i].numeral;
       number -= numeralMap[i].value;
