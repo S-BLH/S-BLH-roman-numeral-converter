@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # PRoman-Numeral-Converter 🚀
 
 ## Project Description 📝
@@ -21,3 +22,4 @@ to use this application, you only have to write the greek numbers and then click
 
 ## License 📜
 MIT license.
+
