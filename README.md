@@ -14,8 +14,8 @@
 to use this application, you only have to write the greek numbers and then click on the convert, to change them to roman numbers
 
 ## Demo 📸
-![Demo]:C:\Users\Black Store\Desktop\Screenshot 2024-06-30 144151.png
-live link of the project:https://s-blh.github.io/S-BLH-roman-numeral-converter/
+![Demo]:![alt text](<Screenshot 2024-06-30 144151-1.png>)
+[live link of the project](https://s-blh.github.io/S-BLH-roman-numeral-converter/)
 
 ## Author 👩‍💻
 - LinkedIn: https://www.linkedin.com/in/sumita-balouch-959197309?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
@@ -23,4 +23,3 @@ live link of the project:https://s-blh.github.io/S-BLH-roman-numeral-converter/
 
 ## License 📜
 MIT license.
-
