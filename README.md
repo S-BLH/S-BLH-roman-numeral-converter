@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-# PRoman-Numeral-Converter 🚀
+# Roman-Numeral-Converter 🚀
 
 ## Project Description 📝
 - 2nd project of js
